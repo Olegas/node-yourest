@@ -1,0 +1,23 @@
+{
+   "name": "yourest",
+   "version": "0.0.1",
+   "description": "YouTrack REST API for NodeJS",
+   "main": "index.js",
+   "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+   },
+   "repository": {
+      "type": "git",
+      "url": "https://github.com/Olegas/node-yourest.git"
+   },
+   "keywords": [
+      "youtrack",
+      "rest",
+      "api"
+   ],
+   "dependencies": {
+      "request": "2.27.0"
+   },
+   "author": "Oleg Elifantiev <oleg@elifantiev.ru>",
+   "license": "MIT"
+}
